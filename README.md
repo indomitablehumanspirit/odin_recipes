@@ -1,1 +1,1 @@
-# odin_recipes
+In the project I will demonstrate the html skills I have learned by making recipes.
